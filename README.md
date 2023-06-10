@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kapil Walukkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilwalukkar123&label=Profile%20views&color=0e75b6&style=flat" alt="kapilwalukkar123" /> </p>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2mnl2P2sI8WKmKa3IGyxRg&ust=1686422546315000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCkyfzrtv8CFQAAAAAdAAAAABA_">
+<img align="right"alt="coding"width="400"src="https://github.com/kapilwalukkar123/kapilwalukkar123/blob/main/Png%20image">
 - 📫 How to reach me **Kapil145096@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fBJlTUvrlIuNCTGnxtqgCdw42yClZFA3/view?usp=drive_link](https://drive.google.com/file/d/1fBJlTUvrlIuNCTGnxtqgCdw42yClZFA3/view?usp=drive_link)
